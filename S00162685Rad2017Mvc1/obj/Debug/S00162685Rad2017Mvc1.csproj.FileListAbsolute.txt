@@ -73,3 +73,4 @@ C:\Work\College\S00162685Rad2017Mvc1\S00162685Rad2017Mvc1\obj\Debug\S00162685Rad
 C:\Work\College\S00162685Rad2017Mvc1\S00162685Rad2017Mvc1\obj\Debug\S00162685Rad2017Mvc1.csproj.GenerateResource.Cache
 C:\Work\College\S00162685Rad2017Mvc1\S00162685Rad2017Mvc1\obj\Debug\S00162685Rad2017Mvc1.Migrations.dateJoined.resources
 C:\Work\College\S00162685Rad2017Mvc1\S00162685Rad2017Mvc1\obj\Debug\S00162685Rad2017Mvc1.Migrations.namesAdded.resources
+C:\Work\College\S00162685Rad2017Mvc1\S00162685Rad2017Mvc1\obj\Debug\S00162685Rad2017Mvc1.Migrations.ClubsAdded.resources
